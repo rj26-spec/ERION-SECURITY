@@ -1,0 +1,15 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+secrets.toml
+token.json
+credentials.json
+*.db
+.vscode/
